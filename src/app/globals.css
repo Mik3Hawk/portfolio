@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/*test1*/
-
 :root {
   --background: #ffffff;
   --foreground: #171717;
